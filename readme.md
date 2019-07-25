@@ -4,6 +4,5 @@ In order to eradicate the humman error in surveillance of multiple cameras. We h
 
 ## Demo
 
-![DEMO](https://github.com/utkarsh1148/Antitheft_Surviellance_System
-/blob/master/media2.mp4)
+![DEMO](https://github.com/utkarsh1148/Antitheft_Surviellance_System/blob/master/media2.mp4)
 
