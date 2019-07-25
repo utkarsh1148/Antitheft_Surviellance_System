@@ -7,3 +7,11 @@ In order to eradicate the humman error in surveillance of multiple cameras. We h
 ![DEMO](gif.gif)
 ![DEMO2](gif2.gif)
 
+
+## Importing Model
+
+You won't get my model for free....LOL....
+
+## Mail me at
+
+utkarsh1148@gmail.com
